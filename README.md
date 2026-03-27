@@ -1,4 +1,4 @@
-# Basic-Aggregation-Function-using-in-Call-center-project-SQL-
+# Basic-Aggregation-Functions-using-in-Call-center-project-SQL-
 
 ## Objective :
 To using of basic Aggregation functions & SQL Concept in Call center Dataset & Analyze the report.
